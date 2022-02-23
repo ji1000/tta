@@ -4,3 +4,4 @@
 - Git commit하기
 - Git push하기
 
+- 집에 가자
